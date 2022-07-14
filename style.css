@@ -1,0 +1,182 @@
+body h1 h2 h3 h4 h5 h6 p {
+    font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
+}
+.a h1{
+    font-size: 60px;
+    color: white;
+    }
+    .a p{
+        font-size: 20px;
+        color: white ;
+    }
+    
+    .a{
+        background-image: url(images/donation13.jpg);
+        text-align: center;
+        text-align-last: auto;
+        background-repeat: no-repeat;
+        background-size:cover;
+        padding-top: 270px;
+        padding-bottom: 201px;
+        margin-top: -10px;
+        margin-left: -10px;
+        margin-right: -8px;
+    }
+    .donate{
+        text-decoration: none;
+        background:linear-gradient(rgb(255, 51, 0),rgb(255, 72, 0),rgb(255, 136, 0));
+        border-radius: 10px;
+        padding: 10px 20px;
+        color: white;
+    }
+    .s h1{
+        text-align: center;
+        margin-top: 100px;
+        font-size: 40px;
+        margin-bottom: 20px;
+    }
+    .s p{
+        text-align: center;
+        font-size: 20px;
+        margin-bottom: 40px;
+    }
+    .tk{
+        margin-left: 320px;
+        margin-bottom: 40px;
+        margin-top: 50px;
+    }
+    .ButtonState{display:none}
+    .Button{padding:3px; background:rgb(243, 243, 243); cursor:pointer;}
+    .ButtonState:checked + .Button{border: 2px solid tomato; color: tomato;}
+    .Button{
+        font-size: 30px;
+        margin-left: 40px;
+        padding: 40px 30px;
+    
+    }
+    .amount{
+        margin-left: 350px;
+        border-bottom: 1px solid grey;
+        border-top: none;
+        border-left: none;
+        border-right: none;
+        margin-top: 30px;
+        padding-right: 300px;
+        padding-left: 300px;
+        padding-bottom: 10px;
+    }
+    .dd{
+        margin-top: 30px;
+        margin-left: 640px;
+        margin-bottom: 130px;
+    }
+    .d h1{
+        text-align: center;
+        margin-top: 100px;
+        font-size: 40px;
+        margin-bottom: 20px;
+    }
+    .d p{
+        text-align: center;
+        font-size: 20px;
+        margin-bottom: 40px;
+    }
+    .box{
+        background-color: bisque;
+        margin-left: 100px;
+        margin-right: 30px;
+        padding-left: 20px;
+        padding-top: 20px;
+        padding-right: 10px;
+    }
+    .box2{
+        background-color: rgb(217, 248, 217);
+        margin-left: 30px;
+        margin-right: 30px;
+        padding-left: 20px;
+        padding-top: 20px;
+        padding-right: 10px;
+    }
+    .box3{
+        background-color: rgb(212, 212, 253);
+        margin-left: 30px;
+        margin-right: 30px;
+        padding-left: 20px;
+        padding-top: 20px;
+        padding-right: 40px;
+    }
+    .s1 p{
+        font-size: 20px;
+    }
+    .s1{
+        display: flex;
+        margin-bottom: 70px;
+    }
+    .s2{
+        display: flex;
+    }
+    .img{
+        width: 500px;
+        height: auto;
+        margin-right: 200px;
+    }
+    .s2 h1{
+        font-size: 40px;
+    }
+    .s2 p{
+        font-size: 20px;
+    }
+    .f{
+        margin-left: 100px;
+        margin-right:140px ;
+    }
+    .img2{
+        width: 500px;
+        height: auto;
+        margin-left: 100px;
+        margin-right: 140px;
+    }
+    .g{
+        margin-right: 200px;
+    }
+    .h h1{
+       text-align: center;
+       padding-left: 540px;
+    }
+    .h p{
+        padding-left: 500px;
+    }
+    .email{
+        margin-left: 540px;
+        padding-left: 5px;
+        padding-right: 60px;
+        margin-top: 40px;
+        padding-top: 10px;
+        padding-bottom: 10px;
+    }
+    .h{
+        padding-right:480px;
+        padding-bottom: 100px;
+    }
+    .donate2{
+        text-decoration: none;
+        background:linear-gradient(rgb(255, 51, 0),rgb(255, 72, 0),rgb(255, 136, 0));
+        border-radius: 10px;
+        color: white;
+        padding-top:10px ;
+        padding-bottom: 10px;
+        padding-left: 10px;
+        padding-right: 10px;
+    }
+    .k{
+        text-align: center;
+        background-color: black;
+        padding-bottom: 20px;
+        padding-top: 10px;
+    }
+    .k h2{
+        color: red;
+        font-family:Arial, Helvetica, sans-serif;
+    }
+    .k p{
+        color: white;}
